@@ -7,4 +7,5 @@ that's it
 i listen to music while coding or gaming
 
 I also make very basic simulators in Coffeescript
+
 Coffeescript underrated ngl
