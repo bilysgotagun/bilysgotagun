@@ -6,6 +6,6 @@ that's it
 
 i listen to music while coding or gaming
 
-I also make very basic simulators in Coffeescript
+I also make very basic simulators in Coffeescript or C++
 
 Coffeescript underrated ngl
