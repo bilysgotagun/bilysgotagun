@@ -9,5 +9,3 @@ i listen to music while coding or gaming
 I also make very basic programs in Coffeescript
 
 Coffeescript underrated ngl
-
-### something big's coming soon
